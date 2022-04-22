@@ -9,7 +9,7 @@ on:
     - cron: "1,2 0 * * *"
     - cron: "1,2 4 * * *"
     - cron: "1,2 10 * * *"
-  
+    
 jobs:
   deploy:
 
